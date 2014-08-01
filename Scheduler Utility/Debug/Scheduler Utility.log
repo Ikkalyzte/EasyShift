@@ -1,0 +1,46 @@
+﻿Build started 07/07/2014 4:47:01 PM.
+     1>Project "C:\Users\Jason Schmidt\Dropbox\School\Scheduler Utility\Scheduler Utility\Scheduler Utility.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\SFML-2.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_STATIC /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MenuPersonCreation.cpp MenuShiftCreation.cpp
+         MenuShiftCreation.cpp
+         MenuPersonCreation.cpp
+         Generating Code...
+     1>cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jason Schmidt\Dropbox\School\Scheduler Utility\Debug\Scheduler Utility.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML-2.0\lib" "sfml-system-s-d.lib" "sfml-graphics-s-d.lib" "sfml-window-s-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jason Schmidt\Dropbox\School\Scheduler Utility\Debug\Scheduler Utility.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jason Schmidt\Dropbox\School\Scheduler Utility\Debug\Scheduler Utility.lib" /MACHINE:X86 Debug\ButtonCancel.obj
+         Debug\ButtonChangeState.obj
+         Debug\ButtonListSelect.obj
+         Debug\ButtonSave.obj
+         Debug\ButtonScroll.obj
+         Debug\Event.obj
+         Debug\IScrollable.obj
+         Debug\LoopInt.obj
+         Debug\MenuCreation.obj
+         Debug\MenuEditing.obj
+         Debug\MenuError.obj
+         Debug\MenuEventCreation.obj
+         Debug\MenuPersonCreation.obj
+         Debug\Scroll.obj
+         Debug\Colours.obj
+         Debug\Button.obj
+         Debug\ButtonDate.obj
+         Debug\ButtonHelper.obj
+         Debug\ButtonMonthChange.obj
+         Debug\Calendar.obj
+         Debug\main.obj
+         Debug\MenuShiftCreation.obj
+         Debug\Person.obj
+         Debug\DisplayPerson.obj
+         Debug\SelectableList.obj
+         Debug\Shift.obj
+         Debug\DisplayShift.obj
+         Debug\Algorithm_Written_As_Comments.obj
+         "Debug\Pseudo-code_Algorithm.obj"
+         Debug\SidePanel.obj
+         Debug\TextBox.obj
+         Scheduler Utility.vcxproj -> C:\Users\Jason Schmidt\Dropbox\School\Scheduler Utility\Debug\Scheduler Utility.exe
+     1>Done Building Project "C:\Users\Jason Schmidt\Dropbox\School\Scheduler Utility\Scheduler Utility\Scheduler Utility.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:23.19
