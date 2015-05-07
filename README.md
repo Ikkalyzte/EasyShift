@@ -1,4 +1,4 @@
 EasyShift (C++)
 =========
 
-Incomplete scheduler utility made during high school
+Scheduler utility made during high school (incomplete)
